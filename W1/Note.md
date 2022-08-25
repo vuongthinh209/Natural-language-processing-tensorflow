@@ -3,4 +3,4 @@
 - Phương thức: fit_on_texts, texts_to_sequences
 
 # pad_sequences
-- Thông số: sequences, maxlen, p
+- Thông số: sequences, maxlen, padding, tr
